@@ -1,8 +1,7 @@
-function rjaygwapo($isit){
+function marlhandsome($isit){
 
 	if($isit)
-	echo "tinood gyud";
+	echo "ikaws";
 	else
-	echo "tinood man gud";
+	echo "libre ice creamxhx!";
 }
-
