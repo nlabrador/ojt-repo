@@ -1,6 +1,6 @@
 function rjayGwapo($isit){
 	if($isit){
-	echo "tinood gyud";
+	echo "di :tinood gyud";
 	}else
 	echo "tinood man gud";
 
