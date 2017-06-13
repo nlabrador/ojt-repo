@@ -1,2 +1,8 @@
-first line
+function rjaygwapo($isit){
+
+	if($isit)
+	echo "tinood gyud";
+	else
+	echo "tinood man gud";
+}
 
