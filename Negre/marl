@@ -1,0 +1,7 @@
+function rjayGwapo($isit){
+	if($isit){
+	echo "di :tinood gyud";
+	}else
+	echo "tinood man gud";
+
+}

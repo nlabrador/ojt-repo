@@ -1,0 +1,7 @@
+function marlhandsome($isit){
+
+	if($isit)
+	echo "ikaws";
+	else
+	echo "libre ice creamxhx!";
+}
